@@ -1,1 +1,1 @@
-# .github
+# Mestrado UTFPR 2026-2028
